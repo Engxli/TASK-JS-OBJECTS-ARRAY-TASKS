@@ -6,8 +6,8 @@ const library = [
   { title: "The Catcher in the Rye", author: "J.D. Salinger", available: true },
 ];
 
-//Q 1 Use the filter method to create a new array containing only books written by female authors.
+//Q1 Use the filter method to create a new array containing only books written by female authors.
 
-//Q 2 Use the map method to create a new array containing objects with only the title and author properties of each book.
+//Q2 Use the map method to create a new array containing objects with only the title and author properties of each book.
 
-//Q 3 Use the find method to find the first available book written by "F. Scott Fitzgerald" and log its title to the console.
+//Q3 Use the find method to find the first available book written by "F. Scott Fitzgerald" and log its title to the console.
